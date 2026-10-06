@@ -1,0 +1,10 @@
+streamlit 
+pandas 
+numpy 
+joblib
+matplotlib.pyplot as plt
+seaborn 
+pathlib 
+Path
+sklearn.metrics.pairwise 
+cosine_similarity
